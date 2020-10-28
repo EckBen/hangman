@@ -1,0 +1,3 @@
+o:Hangman:
+@word[I"d:ETI"e;TI"m;TI"a;TI"r;TI"c;TI"a;TI"t;TI"e;T:@wrong_guesses[I"s;T:@correct_guesses[I"a;TI"d;T:@num_spacesi:@num_rowsi:@full_board[[@I" ;TI" ;T@
+I" ;TI" ;T@I" ;TI" ;T:@winnerI"no winner yet;T:@player_idI"player;T
